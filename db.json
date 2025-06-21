@@ -1,0 +1,66 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "imageUrl": "https://kupistul.ua/public/upload/catalogGood/kreslo-adapwork-s2-senior-ergochair-seriy-beliy-106850139-2246.jpg",
+      "name": "Wooden chair",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://kupistul.ua/public/upload/catalogGood/kreslo-adapwork-s2-senior-ergochair-seriy-beliy-106850139-2246.jpg",
+      "name": "Wooden chair",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200",
+      "comments": [
+        "CommentModel",
+        "CommentModel"
+      ]
+    },
+    {
+      "id": "453d",
+      "name": "chair",
+      "imageUrl": "https://kupistul.ua/public/upload/catalogGoodPhoto/kreslo-adapwork-s2-senior-ergochair-seriy-beliy-106850139-87220.jpg",
+      "count": 3,
+      "size": {
+        "width": 222,
+        "height": 533
+      },
+      "weight": "221",
+      "comments": []
+    },
+    {
+      "id": "eb44",
+      "name": "test",
+      "imageUrl": "https://kupistul.ua/public/upload/catalogGoodPhoto/kreslo-adapwork-s2-senior-ergochair-seriy-beliy-106850139-87220.jpg",
+      "count": 111,
+      "size": {
+        "width": 22222,
+        "height": 666
+      },
+      "weight": "22222",
+      "comments": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "3",
+      "productId": 1,
+      "description": "some text here",
+      "date": "14:00 22.08.2021"
+    }
+  ]
+}
